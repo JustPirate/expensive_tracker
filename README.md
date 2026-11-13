@@ -31,7 +31,7 @@ Expense Tracker provides a foundation for recording and organizing personal expe
 ### Setup
 
 ```bash
-git clone https://github.com/vijaygovindBiju/expensive_tracker.git
+git clone https://github.com/JustPirate/expensive_tracker.git
 cd expensive_tracker
 flutter pub get
 flutter run
